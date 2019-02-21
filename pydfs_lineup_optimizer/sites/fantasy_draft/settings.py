@@ -82,4 +82,5 @@ class FantasyDraftGolfSettings(FantasyDraftSettings):
         LineupPosition('G', ('G', )),
         LineupPosition('G', ('G', )),
         LineupPosition('G', ('G', )),
+        LineupPosition('G', ('G', )),
     ]
